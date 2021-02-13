@@ -12,13 +12,19 @@ As my first npm package, I wanted to create a quick and easy solution to a commo
 ## Install
 
 From CDN: Add the following script to the end of your `<head>` section.
-```<script src="https://cdn.jsdelivr.net/npm/quicktoggle" defer></script>```
+```
+<script src="https://cdn.jsdelivr.net/npm/quicktoggle" defer></script>
+```
 
 From npm: Run the following command.
-```npm install quicktoggle```
+```
+npm install quicktoggle
+```
 
 Include it in your script.
-```import quickToggle from “quickToggle”;```
+```
+import quickToggle from “quickToggle”;
+```
 
 ## How to use
 
@@ -34,7 +40,9 @@ You can use the ID’s on any element but just make sure that both of them exist
 ```
 
 Include the following in your JS.
-```quickToggle.Menu()```
+```
+quickToggle.Menu()
+```
 
 ### quickToggle.Accordion()
 
@@ -48,4 +56,6 @@ You can have an infinite amount of elements using `.accordion` in the DOM but yo
 ```
 
 Include the following in your JS.
-```quickToggle.Accordion()```
+```
+quickToggle.Accordion()
+```

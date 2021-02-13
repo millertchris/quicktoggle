@@ -4,7 +4,7 @@ A quick and easy way to toggle things!
 
 ## Details
 
-As my first npm package, I wanted to created a quick and easy solution to a common task we’ve all had to tackle, togglin shtuff.
+As my first npm package, I wanted to create a quick and easy solution to a common task we all have, togglin stuff.
 
 Here’s how this work.
 
